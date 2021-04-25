@@ -1,5 +1,5 @@
 {
-  "name": "angular-app-heroku",
+  "name": "angular-tour-of-heroess",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
